@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Numbers</title>
+        <title>Numbers: Integeres</title>
     </head>
     <body>
         <?php
